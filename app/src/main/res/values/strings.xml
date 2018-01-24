@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FTimer</string>
+
+    <!-- text timer -->
+    <string name="txt_start">Start</string>
+    <string name="txt_stop">Stop</string>
+    <string name="txt_reset">Reset</string>
+    <string name="txt_pause">Pause</string>
+    <string name="txt_resume">Resume</string>
+</resources>
